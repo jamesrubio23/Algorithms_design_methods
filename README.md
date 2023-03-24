@@ -1,2 +1,7 @@
 # Algorithms
-Problems solved with different types of algorithms
+Life problems solved with different types of algorithms implemented in Python:
+ - Divide and Conquer
+ - Greedy Algorithms
+ - Dynamic Programming
+ - Backtracking Algorithm
+ - Branching and Pruning
