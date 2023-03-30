@@ -1,5 +1,8 @@
 **Programs solved with backtracking algorithm**
 
+  Because of time complexity and memory usage this algorithm is not the best to solve many problems. Even on some ocassions it may not find the optimal solution.
+  However this algorithm works for this problems event though it uses a brute force search.
+
   1.-Sudoku
   
   2.-Check if two digraphs are isomorphic. 
