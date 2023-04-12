@@ -4,4 +4,4 @@ Life problems solved with different types of algorithms implemented in Python:
  - Greedy Algorithms
  - Dynamic Programming
  - Backtracking Algorithm
- - Branching and Pruning
+ - Branch and Bound
